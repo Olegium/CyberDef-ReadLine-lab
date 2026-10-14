@@ -19,3 +19,7 @@
     oneetx.exe (PID 5896) Есть в блоке памяти MZ это значит файл.exe и protection: PAGE_EXECUTE_READWRITE (Память можно и читать, и писать, и выполнять странно).
     
     smartscreen.exe (PID 7540) protection: PAGE_EXECUTE_READWRITE (Память можно и читать, и писать, и выполнять странно).
+
+Вирус oneetx.exe порадил rundll32.exe
+
+<img width="254" height="39" alt="image" src="https://github.com/user-attachments/assets/61e87de4-33dc-4582-b593-2ae9e968883b" />
