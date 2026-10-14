@@ -23,3 +23,7 @@
 Вирус oneetx.exe порадил rundll32.exe
 
 <img width="254" height="39" alt="image" src="https://github.com/user-attachments/assets/61e87de4-33dc-4582-b593-2ae9e968883b" />
+
+Вот и ip
+
+<img width="1361" height="1176" alt="image" src="https://github.com/user-attachments/assets/e311eb0d-accf-411a-b867-a957405438a1" />
