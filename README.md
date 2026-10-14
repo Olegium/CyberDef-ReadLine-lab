@@ -31,3 +31,8 @@
 странно стоит tun2socks.exe + это exe для сетевого подключения
 
 <img width="1356" height="63" alt="image" src="https://github.com/user-attachments/assets/4140da77-396d-4933-8b96-ad4dfbf01bf9" />
+
+тут файл который был запущен сtun2socks
+
+<img width="2295" height="94" alt="image" src="https://github.com/user-attachments/assets/69ef47ae-6d0a-4c9a-b23a-234a72b5662f" />
+
