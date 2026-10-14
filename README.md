@@ -15,5 +15,7 @@
 результаты 
     
     RuntimeBroker.exe (PID 5704) Просто выделили много пустой памяти 
+    
     oneetx.exe (PID 5896) Есть в блоке памяти MZ это значит файл.exe и protection: PAGE_EXECUTE_READWRITE (Память можно и читать, и писать, и выполнять странно).
+    
     smartscreen.exe (PID 7540) protection: PAGE_EXECUTE_READWRITE (Память можно и читать, и писать, и выполнять странно).
