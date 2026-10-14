@@ -36,3 +36,12 @@
 
 <img width="2295" height="94" alt="image" src="https://github.com/user-attachments/assets/69ef47ae-6d0a-4c9a-b23a-234a72b5662f" />
 
+вот путь 
+
+<img width="1753" height="209" alt="image" src="https://github.com/user-attachments/assets/00d39d21-d9d4-40a1-87df-6d3dcebc4613" />
+
+путь нашли через сточки где ip указан был
+
+<img width="957" height="317" alt="image" src="https://github.com/user-attachments/assets/3b64defb-573e-48f5-b094-1b8129520d13" />
+
+
