@@ -27,3 +27,7 @@
 Вот и ip
 
 <img width="1361" height="1176" alt="image" src="https://github.com/user-attachments/assets/e311eb0d-accf-411a-b867-a957405438a1" />
+
+странно стоит tun2socks.exe + это exe для сетевого подключения
+
+<img width="1356" height="63" alt="image" src="https://github.com/user-attachments/assets/4140da77-396d-4933-8b96-ad4dfbf01bf9" />
